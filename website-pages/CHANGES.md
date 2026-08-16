@@ -1,4 +1,4 @@
-# American English Pass — Ohel Website Pages
+# American English Pass — Oel Website Pages
 
 The pages were translated by a native Canadian speaker; this pass adjusts the text so it reads as natural American English. No content, structure, or formatting was changed — only word-level edits.
 
@@ -21,7 +21,10 @@ The pages were translated by a native Canadian speaker; this pass adjusts the te
 - Button: "Explore The Sheffer Center Network" → "Explore the Sheffer Center Network"
 
 ## Unchanged files
-- `06_Ohel_Families.docx` — already reads as clean American English
-- `08_Get_in_Touch_OHel.docx` — contact form only; nothing to fix. Note: the email address reads `oel@oel.org.il` — worth confirming it isn't meant to be `ohel@…`.
+- `06_Oel_Families.docx` — already reads as clean American English
+- `08_Get_in_Touch_Oel.docx` — contact form only; nothing to fix. Note: the email address reads `oel@oel.org.il` — worth confirming it isn't meant to be `ohel@…`.
 
 Originals are preserved in `original/`.
+
+## Brand naming
+- All 40 occurrences of "Ohel" / "OHEL" in the page copy were changed to **"Oel" / "OEL"** to match the domain name (oel.org.il). Filenames updated to match.
