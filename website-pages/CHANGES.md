@@ -28,3 +28,17 @@ Originals are preserved in `original/`.
 
 ## Brand naming
 - All 40 occurrences of "Ohel" / "OHEL" in the page copy were changed to **"Oel" / "OEL"** to match the domain name (oel.org.il). Filenames updated to match.
+
+## US Chareidi audience adaptation (round 2)
+The site targets Chareidi communities in the US, so terminology was adapted to frum-American conventions:
+- **Hasidic → Chassidic**, **Chabad Hasidism → Chabad Chassidus** (Girls, Boys, Families pages)
+- **Haredi → Chareidi** (main page, Boys page)
+- **Lithuanian → Litvish** (Boys page)
+- **Seminar Halichot → Seminary Halichot** (Girls page — "Seminar" is the Israeli term; "Seminary" is the US one)
+- **"nationwide network" → "network across Israel"** and stat tile **"Nationwide Reach" → "Across Israel"** (main page — avoids reading as US-nationwide)
+- **Phone numbers → international format**: 02-580-1616 → +972-2-580-1616, 02-580-2022 → +972-2-580-2022 (Get in Touch page)
+- File renamed: `05_Oel_Paamonim_Bell_Center.docx` → `05_Oel_Paamonim_Center.docx` — the center's English name is "Pa'amonim Child Development Center"; "Bell" was a leftover literal translation.
+
+## Open questions for the client
+1. **Oel or Ohel?** The domain is oel.org.il, but "Ohel" is the standard transliteration and appeared throughout the original copy. Confirm the official English brand spelling (and check the logo).
+2. **Coming Soon programs** (community residential services, after-school programs) — still accurate to publish?
